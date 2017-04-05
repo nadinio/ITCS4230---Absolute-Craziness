@@ -20,21 +20,31 @@
   <rooms name="rooms">
     <rooms name="Level 1">
       <room>rooms\rm_lev1rm0</room>
-      <room>rooms\rm_lev1rm2</room>
-      <room>rooms\rm_lev1rm12</room>
-      <room>rooms\rm_lev1rm4</room>
-      <room>rooms\rm_lev1rm5</room>
-      <room>rooms\rm_lev1rm3</room>
-      <room>rooms\rm_lev1rm13</room>
-      <room>rooms\rm_lev1rm11</room>
-      <room>rooms\rm_lev1rm9</room>
-      <room>rooms\rm_lev1rm10</room>
-      <room>rooms\rm_lev1rm8</room>
-      <room>rooms\rm_lev1rm7</room>
-      <room>rooms\rm_lev1rm6</room>
-      <room>rooms\rm_lev1rm15</room>
-      <room>rooms\rm_lev1rm14</room>
       <room>rooms\rm_lev1rm1</room>
+      <room>rooms\rm_lev1rm10</room>
+      <room>rooms\rm_lev1rm22</room>
+      <room>rooms\rm_lev1rm20</room>
+      <room>rooms\rm_lev1rm11</room>
+      <room>rooms\rm_lev1rm12</room>
+      <room>rooms\rm_lev1rm13</room>
+      <room>rooms\rm_lev1rm23</room>
+      <room>rooms\rm_lev1rm14</room>
+      <room>rooms\rm_lev1rm15</room>
+      <room>rooms\rm_lev1rm21</room>
+      <room>rooms\rm_lev1rm16</room>
+      <room>rooms\rm_lev1rm17</room>
+      <room>rooms\rm_lev1rm2</room>
+      <room>rooms\rm_lev1rm18</room>
+      <room>rooms\rm_lev1rm3</room>
+      <room>rooms\rm_lev1rm19</room>
+      <room>rooms\rm_lev1rm4</room>
+      <room>rooms\rm_lev1rm24</room>
+      <room>rooms\rm_lev1rm5</room>
+      <room>rooms\rm_lev1rm6</room>
+      <room>rooms\rm_lev1rm7</room>
+      <room>rooms\rm_lev1rm8</room>
+      <room>rooms\rm_lev1rm25</room>
+      <room>rooms\rm_lev1rm9</room>
     </rooms>
   </rooms>
   <help>

@@ -61,9 +61,6 @@
     <instance objName="obj_lev1wall" x="0" y="192" name="inst_D3C1412D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_lev1wall" x="0" y="256" name="inst_0E33FFA7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_lev1wall" x="0" y="288" name="inst_B8E895ED" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_lev1wall" x="0" y="320" name="inst_6E4168B0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_lev1wall" x="0" y="352" name="inst_760BBA01" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_lev1wall" x="0" y="384" name="inst_C16FC0BF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_lev1wall" x="0" y="416" name="inst_86A3A7DA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_lev1wall" x="0" y="480" name="inst_E94F2069" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_lev1wall" x="0" y="448" name="inst_0B06656D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -157,6 +154,7 @@
     <instance objName="obj_lev1wall" x="480" y="0" name="inst_5F69A3BF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_lev1wall" x="512" y="0" name="inst_39C87116" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_lev1wall" x="544" y="0" name="inst_C64F74F5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_warp" x="-64" y="320" name="inst_D3AA4A34" locked="0" code="target_x = 960;&#xA;target_y = 352;&#xA;target_r = rm_lev1rm23;&#xA;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
