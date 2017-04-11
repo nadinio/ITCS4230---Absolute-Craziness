@@ -4,18 +4,131 @@
     <Config>Configs\Default</Config>
   </Configs>
   <NewExtensions/>
-  <sounds name="sound"/>
+  <sounds name="sound">
+    <sounds name="Player">
+      <sound>sound\snd_player_move</sound>
+      <sound>sound\snd_damage</sound>
+      <sound>sound\snd_upgrade</sound>
+      <sound>sound\snd_attack</sound>
+    </sounds>
+    <sounds name="NPC">
+      <sound>sound\snd_death</sound>
+      <sound>sound\snd_fireball</sound>
+      <sound>sound\snd_skeleton_attack</sound>
+      <sound>sound\snd_alarm</sound>
+      <sound>sound\snd_skeleton_damage</sound>
+      <sound>sound\snd_magic</sound>
+      <sound>sound\snd_ant_damage</sound>
+    </sounds>
+  </sounds>
   <sprites name="sprites">
     <sprite>sprites\spr_player</sprite>
-    <sprite>sprites\spr_lv1wall</sprite>
-    <sprite>sprites\spr_door</sprite>
+    <sprites name="Heros">
+      <sprite>sprites\spr_super_hero</sprite>
+    </sprites>
+    <sprites name="Enemies">
+      <sprites name="Melee">
+        <sprite>sprites\spr_skeleton</sprite>
+      </sprites>
+      <sprites name="Ranged">
+        <sprite>sprites\spr_demonic_wizzard</sprite>
+        <sprites name="projectile">
+          <sprite>sprites\spr_ant_bullet</sprite>
+          <sprite>sprites\spr_blue_bug</sprite>
+        </sprites>
+      </sprites>
+      <sprites name="Spawn">
+        <sprite>sprites\spr_grave</sprite>
+      </sprites>
+      <sprites name="Boss">
+        <sprite>sprites\spr_livingDeadWizzard</sprite>
+      </sprites>
+    </sprites>
+    <sprites name="Weapons">
+      <sprite>sprites\spr_long_sword</sprite>
+      <sprite>sprites\spr_lazer_rifle</sprite>
+      <sprite>sprites\spr_shield</sprite>
+      <sprite>sprites\spr_short_sword</sprite>
+    </sprites>
+    <sprites name="Special Attacks">
+      <sprite>sprites\spr_fireball</sprite>
+    </sprites>
+    <sprite>sprites\spr_trap</sprite>
+    <sprites name="Buildings">
+      <sprite>sprites\spr_wall</sprite>
+      <sprite>sprites\spr_warp</sprite>
+      <sprite>sprites\spr_door</sprite>
+      <sprite>sprites\spr_lv1wall</sprite>
+    </sprites>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
+  <scripts name="scripts">
+    <scripts name="Melee Scripts">
+      <script>scripts\scr_hold_pattern_A.gml</script>
+      <script>scripts\scr_enemy_melee_attack.gml</script>
+    </scripts>
+    <scripts name="Boss Attack Patterns">
+      <script>scripts\scr_attack_A.gml</script>
+    </scripts>
+  </scripts>
   <objects name="objects">
-    <object>objects\obj_player</object>
-    <object>objects\obj_lev1wall</object>
-    <object>objects\obj_warp</object>
+    <objects name="Heros">
+      <objects name="Attack Left">
+        <object>objects\obj_long_sword</object>
+        <object>objects\obj_lazer_rifle</object>
+        <object>objects\obj_shield</object>
+        <object>objects\obj_short_sword</object>
+      </objects>
+      <object>objects\obj_super_hero</object>
+    </objects>
+    <objects name="Upgrades">
+      <object>objects\obj_upgrade_lazer_rifle</object>
+      <object>objects\obj_upgrade_longe_sword</object>
+      <object>objects\obj_upgrade_short_sword</object>
+    </objects>
+    <objects name="Enemies">
+      <objects name="Melee">
+        <object>objects\obj_skeleton</object>
+      </objects>
+      <objects name="Range">
+        <object>objects\obj_demonic_wizzard</object>
+        <objects name="Projectile">
+          <object>objects\obj_ant_bullet</object>
+          <object>objects\obj_bug_lazer</object>
+        </objects>
+      </objects>
+      <objects name="Spawn">
+        <object>objects\obj_grave</object>
+      </objects>
+      <objects name="Boss">
+        <object>objects\obj_livingDeadWizard</object>
+        <objects name="Attacks">
+          <object>objects\obj_fireball</object>
+          <object>objects\obj_fireball_minor</object>
+        </objects>
+      </objects>
+    </objects>
+    <objects name="Parents">
+      <object>objects\par_Player_Attack</object>
+      <object>objects\par_Player</object>
+      <object>objects\par_Enemy_attack</object>
+      <object>objects\par_Enemy</object>
+      <object>objects\par_Upgrade</object>
+    </objects>
+    <objects name="Traps">
+      <object>objects\obj_trap</object>
+    </objects>
+    <objects name="map_structure">
+      <object>objects\obj_warp</object>
+      <object>objects\obj_door</object>
+      <object>objects\obj_wall</object>
+      <object>objects\obj_lev1wall</object>
+    </objects>
+    <objects name="Controllers">
+      <object>objects\obj_controler</object>
+      <object>objects\obj_resolution_control</object>
+    </objects>
   </objects>
   <rooms name="rooms">
     <rooms name="Level 1">
@@ -45,6 +158,13 @@
       <room>rooms\rm_lev1rm8</room>
       <room>rooms\rm_lev1rm25</room>
       <room>rooms\rm_lev1rm9</room>
+    </rooms>
+    <rooms name="Test Rooms">
+      <room>rooms\rm_boss</room>
+      <room>rooms\rm_traps</room>
+      <room>rooms\rm_range_test</room>
+      <room>rooms\rm_melee_test</room>
+      <room>rooms\rm_spawn_test</room>
     </rooms>
   </rooms>
   <help>
