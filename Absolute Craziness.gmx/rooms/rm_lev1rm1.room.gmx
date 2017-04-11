@@ -159,7 +159,7 @@
     <instance objName="obj_lev1wall" x="448" y="288" name="inst_F8106888" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_lev1wall" x="448" y="256" name="inst_79EAB657" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_lev1wall" x="576" y="736" name="inst_B71A18DA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_warp" x="480" y="736" name="inst_855AD42C" locked="0" code="target_x = 512;&#xA;target_y = 32;&#xA;target_r = rm_lev1rm0;&#xA;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_warp" x="480" y="736" name="inst_855AD42C" locked="0" code="target_x = 512;&#xA;target_y = 32;&#xA;target_r = rm_lev1rm0;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_warp" x="480" y="-64" name="inst_4CA86C2B" locked="0" code="target_x = 512;&#xA;target_y = 704;&#xA;target_r = rm_lev1rm2;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>

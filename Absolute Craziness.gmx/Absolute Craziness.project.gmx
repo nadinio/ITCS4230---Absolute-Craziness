@@ -81,6 +81,7 @@
         <object>objects\obj_short_sword</object>
       </objects>
       <object>objects\obj_super_hero</object>
+      <object>objects\obj_player</object>
     </objects>
     <objects name="Upgrades">
       <object>objects\obj_upgrade_lazer_rifle</object>

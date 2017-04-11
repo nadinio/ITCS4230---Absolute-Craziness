@@ -4,46 +4,20 @@
   <solid>0</solid>
   <visible>-1</visible>
   <depth>0</depth>
-  <persistent>-1</persistent>
+  <persistent>0</persistent>
   <parentName>&lt;undefined&gt;</parentName>
   <maskName>&lt;undefined&gt;</maskName>
   <events>
-    <event eventtype="4" ename="obj_lev1wall">
-      <action>
-        <libid>1</libid>
-        <id>109</id>
-        <kind>0</kind>
-        <userelative>-1</userelative>
-        <isquestion>0</isquestion>
-        <useapplyto>-1</useapplyto>
-        <exetype>1</exetype>
-        <functionname>action_move_to</functionname>
-        <codestring></codestring>
-        <whoName>self</whoName>
-        <relative>-1</relative>
-        <isnot>0</isnot>
-        <arguments>
-          <argument>
-            <kind>0</kind>
-            <string>0</string>
-          </argument>
-          <argument>
-            <kind>0</kind>
-            <string>0</string>
-          </argument>
-        </arguments>
-      </action>
-    </event>
     <event eventtype="5" enumb="40">
       <action>
         <libid>1</libid>
-        <id>109</id>
+        <id>105</id>
         <kind>0</kind>
         <userelative>-1</userelative>
         <isquestion>0</isquestion>
         <useapplyto>-1</useapplyto>
         <exetype>1</exetype>
-        <functionname>action_move_to</functionname>
+        <functionname>action_move_point</functionname>
         <codestring></codestring>
         <whoName>self</whoName>
         <relative>-1</relative>
@@ -55,7 +29,11 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>8</string>
+            <string>-10</string>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>0</string>
           </argument>
         </arguments>
       </action>
@@ -63,13 +41,13 @@
     <event eventtype="5" enumb="39">
       <action>
         <libid>1</libid>
-        <id>109</id>
+        <id>105</id>
         <kind>0</kind>
         <userelative>-1</userelative>
         <isquestion>0</isquestion>
         <useapplyto>-1</useapplyto>
         <exetype>1</exetype>
-        <functionname>action_move_to</functionname>
+        <functionname>action_move_point</functionname>
         <codestring></codestring>
         <whoName>self</whoName>
         <relative>-1</relative>
@@ -77,7 +55,11 @@
         <arguments>
           <argument>
             <kind>0</kind>
-            <string>8</string>
+            <string>10</string>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>0</string>
           </argument>
           <argument>
             <kind>0</kind>
@@ -89,13 +71,13 @@
     <event eventtype="5" enumb="38">
       <action>
         <libid>1</libid>
-        <id>109</id>
+        <id>105</id>
         <kind>0</kind>
         <userelative>-1</userelative>
         <isquestion>0</isquestion>
         <useapplyto>-1</useapplyto>
         <exetype>1</exetype>
-        <functionname>action_move_to</functionname>
+        <functionname>action_move_point</functionname>
         <codestring></codestring>
         <whoName>self</whoName>
         <relative>-1</relative>
@@ -103,11 +85,15 @@
         <arguments>
           <argument>
             <kind>0</kind>
+            <string>10</string>
+          </argument>
+          <argument>
+            <kind>0</kind>
             <string>0</string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>-8</string>
+            <string>0</string>
           </argument>
         </arguments>
       </action>
@@ -115,13 +101,13 @@
     <event eventtype="5" enumb="37">
       <action>
         <libid>1</libid>
-        <id>109</id>
+        <id>105</id>
         <kind>0</kind>
         <userelative>-1</userelative>
         <isquestion>0</isquestion>
         <useapplyto>-1</useapplyto>
         <exetype>1</exetype>
-        <functionname>action_move_to</functionname>
+        <functionname>action_move_point</functionname>
         <codestring></codestring>
         <whoName>self</whoName>
         <relative>-1</relative>
@@ -129,7 +115,11 @@
         <arguments>
           <argument>
             <kind>0</kind>
-            <string>-8</string>
+            <string>-10</string>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>0</string>
           </argument>
           <argument>
             <kind>0</kind>
