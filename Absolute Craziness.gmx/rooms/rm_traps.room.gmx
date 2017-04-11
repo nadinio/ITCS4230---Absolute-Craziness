@@ -52,7 +52,6 @@
   </views>
   <instances>
     <instance objName="obj_super_hero" x="160" y="128" name="inst_5A254C1F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_controler" x="32" y="32" name="inst_BA678BAE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_wall" x="0" y="160" name="inst_FE246A01" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_wall" x="0" y="96" name="inst_C3EC7CE2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_wall" x="0" y="32" name="inst_B877E109" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>

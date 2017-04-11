@@ -121,7 +121,6 @@
     </objects>
     <objects name="map_structure">
       <object>objects\obj_warp</object>
-      <object>objects\obj_door</object>
       <object>objects\obj_wall</object>
       <object>objects\obj_lev1wall</object>
     </objects>

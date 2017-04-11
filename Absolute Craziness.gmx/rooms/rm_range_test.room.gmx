@@ -159,7 +159,6 @@
     <instance objName="obj_demonic_wizzard" x="896" y="640" name="inst_E7FA275C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_demonic_wizzard" x="864" y="672" name="inst_4BB8E793" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_demonic_wizzard" x="896" y="672" name="inst_F3C4EB9E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_door" x="960" y="320" name="inst_876C1804" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
