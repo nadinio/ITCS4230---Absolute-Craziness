@@ -3,7 +3,7 @@
   <spriteName>spr_super_hero</spriteName>
   <solid>-1</solid>
   <visible>-1</visible>
-  <depth>0</depth>
+  <depth>-1</depth>
   <persistent>-1</persistent>
   <parentName>par_Player</parentName>
   <maskName>&lt;undefined&gt;</maskName>

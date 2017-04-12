@@ -22,7 +22,6 @@
     </sounds>
   </sounds>
   <sprites name="sprites">
-    <sprite>sprites\spr_player</sprite>
     <sprites name="Heros">
       <sprite>sprites\spr_super_hero</sprite>
     </sprites>
@@ -81,7 +80,6 @@
         <object>objects\obj_short_sword</object>
       </objects>
       <object>objects\obj_super_hero</object>
-      <object>objects\obj_player</object>
     </objects>
     <objects name="Upgrades">
       <object>objects\obj_upgrade_lazer_rifle</object>
