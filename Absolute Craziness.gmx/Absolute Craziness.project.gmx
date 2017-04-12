@@ -56,11 +56,12 @@
     <sprites name="Buildings">
       <sprite>sprites\spr_wall</sprite>
       <sprite>sprites\spr_warp</sprite>
-      <sprite>sprites\spr_door</sprite>
       <sprite>sprites\spr_lv1wall</sprite>
     </sprites>
   </sprites>
-  <backgrounds name="background"/>
+  <backgrounds name="background">
+    <background>background\bg_grassPathTiles</background>
+  </backgrounds>
   <paths name="paths"/>
   <scripts name="scripts">
     <scripts name="Melee Scripts">
