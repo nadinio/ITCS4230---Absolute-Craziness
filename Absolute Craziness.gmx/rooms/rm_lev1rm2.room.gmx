@@ -162,9 +162,6 @@
     <instance objName="obj_demonic_wizzard" x="544" y="512" name="inst_734DB7FE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
-    <tile bgName="bg_grassPathTiles" x="480" y="736" w="32" h="32" xo="160" yo="16" id="10001499" name="inst_CDFBCCA6" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="bg_grassPathTiles" x="512" y="736" w="32" h="32" xo="256" yo="16" id="10001603" name="inst_AE348770" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="bg_grassPathTiles" x="544" y="736" w="32" h="32" xo="160" yo="16" id="10001604" name="inst_6EF60BAC" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="bg_terrain1" x="448" y="704" w="32" h="32" xo="64" yo="32" id="10005104" name="inst_4CBEAA0C" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="bg_terrain1" x="480" y="704" w="32" h="32" xo="64" yo="32" id="10005105" name="inst_20DF97C2" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="bg_terrain1" x="480" y="672" w="32" h="32" xo="64" yo="32" id="10005106" name="inst_8D173641" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
@@ -828,6 +825,9 @@
     <tile bgName="bg_terrain1" x="160" y="256" w="32" h="32" xo="64" yo="128" id="10005919" name="inst_C536F155" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="bg_terrain1" x="160" y="224" w="32" h="32" xo="64" yo="128" id="10005920" name="inst_B497A7A2" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="bg_terrain1" x="160" y="192" w="32" h="32" xo="64" yo="128" id="10005921" name="inst_E1EB1938" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="bg_terrain1" x="480" y="736" w="32" h="32" xo="64" yo="32" id="10005927" name="inst_6638C029" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="bg_terrain1" x="512" y="736" w="32" h="32" xo="64" yo="32" id="10005928" name="inst_BDBB2530" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="bg_terrain1" x="544" y="736" w="32" h="32" xo="64" yo="32" id="10005929" name="inst_27347507" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
   </tiles>
   <PhysicsWorld>0</PhysicsWorld>
   <PhysicsWorldTop>0</PhysicsWorldTop>
