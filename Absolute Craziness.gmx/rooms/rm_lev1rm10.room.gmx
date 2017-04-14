@@ -155,6 +155,13 @@
     <instance objName="obj_lev1wall" x="480" y="736" name="inst_4CAA1F8B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_lev1wall" x="512" y="736" name="inst_0E572E50" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_lev1wall" x="544" y="736" name="inst_8BD47453" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_skeleton" x="160" y="160" name="inst_07F49FF7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_skeleton" x="256" y="320" name="inst_0F7E27EA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_skeleton" x="416" y="512" name="inst_94DFCAAD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_skeleton" x="448" y="256" name="inst_4F1BFADB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_skeleton" x="640" y="128" name="inst_A0733028" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_demonic_wizzard" x="704" y="544" name="inst_DA4F7F05" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_demonic_wizzard" x="192" y="512" name="inst_E00AF914" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="bg_terrain1" x="32" y="416" w="32" h="32" xo="64" yo="32" id="10011702" name="inst_C72A0BC2" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
