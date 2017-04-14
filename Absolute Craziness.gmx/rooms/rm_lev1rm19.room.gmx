@@ -155,6 +155,9 @@
     <instance objName="obj_lev1wall" x="992" y="320" name="inst_65B2FDC9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_lev1wall" x="992" y="352" name="inst_73DE06D3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_lev1wall" x="992" y="384" name="inst_20873613" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_grave" x="128" y="672" name="inst_F5F04D2E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_demonic_wizzard" x="288" y="256" name="inst_BD37024C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_demonic_wizzard" x="640" y="416" name="inst_0D3C29E6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="bg_terrain1" x="0" y="416" w="32" h="32" xo="64" yo="32" id="10019031" name="inst_8665B4D5" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>

@@ -155,6 +155,12 @@
     <instance objName="obj_lev1wall" x="960" y="0" name="inst_07B7919F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_warp" x="480" y="-64" name="inst_284AEB6A" locked="0" code="target_x = 512;&#xA;target_y = 704;&#xA;target_r = rm_lev1rm25;&#xA;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_warp" x="480" y="736" name="inst_21538FE9" locked="0" code="target_x = 512;&#xA;target_y = 32;&#xA;target_r = rm_lev1rm23;&#xA;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_trap" x="288" y="640" name="inst_0C9D8C80" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_trap" x="192" y="352" name="inst_FC95C7AF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_trap" x="256" y="160" name="inst_E7817A77" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_trap" x="832" y="96" name="inst_E6863D67" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_trap" x="864" y="352" name="inst_D94FA2FC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_trap" x="896" y="640" name="inst_399F8D7F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="bg_terrain1" x="416" y="0" w="32" h="32" xo="64" yo="32" id="10023101" name="inst_58AEAC19" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
