@@ -87,9 +87,12 @@ attack = obj_short_sword;
 
 if (health&lt;=0)
 {
+    health = 100;
     score = score/2;
     show_message("you died"); 
-    room_restart();
+    //room_restart();
+    room_goto(rm_lev1rm0);
+    //room_restart();
 }
 </string>
           </argument>

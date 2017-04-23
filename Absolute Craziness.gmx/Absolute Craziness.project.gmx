@@ -27,7 +27,9 @@
     </sprites>
     <sprites name="Enemies">
       <sprites name="Melee">
+        <sprite>sprites\spr_minotaur</sprite>
         <sprite>sprites\spr_skeleton</sprite>
+        <sprite>sprites\spr_bat</sprite>
       </sprites>
       <sprites name="Ranged">
         <sprite>sprites\spr_demonic_wizzard</sprite>
@@ -48,9 +50,15 @@
       <sprite>sprites\spr_lazer_rifle</sprite>
       <sprite>sprites\spr_shield</sprite>
       <sprite>sprites\spr_short_sword</sprite>
+      <sprite>sprites\spr_mace</sprite>
+      <sprite>sprites\spr_rifle</sprite>
+      <sprite>sprites\spr_bullet</sprite>
     </sprites>
     <sprites name="Special Attacks">
       <sprite>sprites\spr_fireball</sprite>
+    </sprites>
+    <sprites name="Buffs">
+      <sprite>sprites\spr_heal</sprite>
     </sprites>
     <sprite>sprites\spr_trap</sprite>
     <sprites name="Buildings">
@@ -77,22 +85,29 @@
   </scripts>
   <objects name="objects">
     <objects name="Heros">
+      <object>objects\obj_super_hero</object>
       <objects name="Attack Left">
         <object>objects\obj_long_sword</object>
         <object>objects\obj_lazer_rifle</object>
         <object>objects\obj_shield</object>
         <object>objects\obj_short_sword</object>
+        <object>objects\obj_mace</object>
+        <object>objects\obj_rifle</object>
       </objects>
-      <object>objects\obj_super_hero</object>
     </objects>
     <objects name="Upgrades">
       <object>objects\obj_upgrade_lazer_rifle</object>
       <object>objects\obj_upgrade_longe_sword</object>
       <object>objects\obj_upgrade_short_sword</object>
+      <object>objects\obj_upgrade_mace</object>
+      <object>objects\obj_upgrade_rifle</object>
+      <object>objects\obj_heal</object>
     </objects>
     <objects name="Enemies">
       <objects name="Melee">
         <object>objects\obj_skeleton</object>
+        <object>objects\obj_minotaur</object>
+        <object>objects\obj_bat</object>
       </objects>
       <objects name="Range">
         <object>objects\obj_demonic_wizzard</object>
@@ -162,10 +177,10 @@
       <room>rooms\rm_lev1rm9</room>
     </rooms>
     <rooms name="Test Rooms">
+      <room>rooms\rm_melee_test</room>
       <room>rooms\rm_boss</room>
       <room>rooms\rm_traps</room>
       <room>rooms\rm_range_test</room>
-      <room>rooms\rm_melee_test</room>
       <room>rooms\rm_spawn_test</room>
     </rooms>
   </rooms>
