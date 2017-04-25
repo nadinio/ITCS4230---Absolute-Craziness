@@ -20,6 +20,7 @@
       <sound>sound\snd_magic</sound>
       <sound>sound\snd_ant_damage</sound>
     </sounds>
+    <sound>sound\bg_music</sound>
   </sounds>
   <sprites name="sprites">
     <sprites name="Heros">

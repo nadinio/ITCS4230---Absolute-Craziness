@@ -27,7 +27,7 @@
             <kind>1</kind>
             <string>// variable
 
-global.damage = 5;
+global.damage = 2;
 image_angle = direction;
 range = 300;
 alarm[0] = range; 
