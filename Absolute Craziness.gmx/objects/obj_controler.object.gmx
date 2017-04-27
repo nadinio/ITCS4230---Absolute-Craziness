@@ -122,12 +122,18 @@ if(cheat=="opmace")
     global.legit_run = false;
 }
 
+if(cheat=="rifle")
+{
+    obj_super_hero.attack = obj_upgrade_rifle;
+    global.legit_run = false;
+}
+
+/* 
 if(cheat=="gotoboss")
 {
     obj_super_hero.x = 384;
     obj_super_hero.y = 352;
     room_goto(rm_lev1rm14);
-    //obj_livingDeadWizard.cur_hp = 0;
     global.legit_run = false;
 }
 
@@ -136,6 +142,8 @@ if(cheat=="killboss")
     obj_livingDeadWizard.cur_hp = 0;
     global.legit_run = false;
 }
+
+*/
 </string>
           </argument>
         </arguments>
