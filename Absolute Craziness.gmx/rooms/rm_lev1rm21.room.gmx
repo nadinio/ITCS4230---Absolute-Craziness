@@ -157,13 +157,12 @@
     <instance objName="obj_lev1wall" x="0" y="320" name="inst_1C128962" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_lev1wall" x="0" y="352" name="inst_87269960" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_lev1wall" x="0" y="384" name="inst_A21C1913" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_upgrade_longe_sword" x="352" y="640" name="inst_C6EC8EEA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_grave" x="160" y="320" name="inst_BC4B577C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_trap" x="64" y="640" name="inst_E79A9A38" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_trap" x="320" y="256" name="inst_2B23AB7D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_trap" x="736" y="128" name="inst_084E058B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_trap" x="736" y="672" name="inst_6685C9C9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_upgrade_longe_sword" x="608" y="384" name="inst_F8B28DF9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_upgrade_longe_sword" x="352" y="640" name="inst_F8B28DF9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="bg_terrain1" x="960" y="288" w="32" h="32" xo="64" yo="32" id="10020635" name="inst_77BA2CDB" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
