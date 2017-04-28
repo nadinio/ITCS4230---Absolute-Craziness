@@ -186,6 +186,10 @@
     <instance objName="obj_lev1wall" x="544" y="448" name="inst_76F13570" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_lev1wall" x="320" y="416" name="inst_24442638" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_lev1wall" x="576" y="448" name="inst_D67EFBB0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_minotaur" x="416" y="64" name="inst_8C27706B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_minotaur" x="704" y="64" name="inst_7E2A0E5B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_bat" x="160" y="384" name="inst_84249815" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_bat" x="832" y="448" name="inst_F47BC5B4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="bg_grassPathTiles" x="448" y="128" w="32" h="32" xo="32" yo="16" id="10000963" name="inst_FF367555" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>

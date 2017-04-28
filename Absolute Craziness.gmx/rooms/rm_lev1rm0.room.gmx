@@ -160,6 +160,8 @@
     <instance objName="obj_super_hero" x="352" y="288" name="inst_AFF4782F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_controler" x="32" y="32" name="inst_A04C43CA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_resolution_control" x="64" y="32" name="inst_B6C17CDB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_minotaur" x="960" y="64" name="inst_0EBF20A9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_bat" x="896" y="672" name="inst_5598E618" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="bg_grassPathTiles" x="32" y="0" w="32" h="32" xo="0" yo="16" id="10000016" name="inst_F9F0ABA3" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>

@@ -160,6 +160,10 @@
     <instance objName="obj_demonic_wizzard" x="320" y="544" name="inst_5A299EE7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_demonic_wizzard" x="416" y="544" name="inst_42CA3176" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_demonic_wizzard" x="544" y="512" name="inst_734DB7FE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_minotaur" x="352" y="640" name="inst_4DF6CAEC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_minotaur" x="896" y="416" name="inst_744376C6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_bat" x="416" y="160" name="inst_AAFE096B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_bat" x="704" y="160" name="inst_5FD335F4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="bg_terrain1" x="448" y="704" w="32" h="32" xo="64" yo="32" id="10005104" name="inst_4CBEAA0C" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
