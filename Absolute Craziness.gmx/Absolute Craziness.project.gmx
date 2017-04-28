@@ -22,6 +22,7 @@
     </sounds>
     <sound>sound\bg_music</sound>
     <sound>sound\snd_button</sound>
+    <sound>sound\snd_lazer_rifle</sound>
   </sounds>
   <sprites name="sprites">
     <sprites name="Heros">
