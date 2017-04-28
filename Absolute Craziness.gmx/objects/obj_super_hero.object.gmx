@@ -334,7 +334,8 @@ abc.image_angle = abc.direction;
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>abc = instance_create(x,y, attack);
+            <string>/// Attack
+abc = instance_create(x,y, attack);
 abc.speed=10;
 abc.direction = point_direction(x,y, mouse_x, mouse_y)
 abc.image_angle = abc.direction;
@@ -344,25 +345,43 @@ abc.image_angle = abc.direction;
       </action>
       <action>
         <libid>1</libid>
-        <id>211</id>
-        <kind>0</kind>
+        <id>603</id>
+        <kind>7</kind>
         <userelative>0</userelative>
         <isquestion>0</isquestion>
-        <useapplyto>0</useapplyto>
-        <exetype>1</exetype>
-        <functionname>action_sound</functionname>
+        <useapplyto>-1</useapplyto>
+        <exetype>2</exetype>
+        <functionname></functionname>
         <codestring></codestring>
         <whoName>self</whoName>
         <relative>0</relative>
         <isnot>0</isnot>
         <arguments>
           <argument>
-            <kind>6</kind>
-            <sound>snd_attack</sound>
-          </argument>
-          <argument>
-            <kind>3</kind>
-            <string>0</string>
+            <kind>1</kind>
+            <string>/// Play attack sound
+
+if(attack == obj_lazer_rifle)
+{
+    audio_play_sound(snd_lazer_rifle,10, false);
+}
+if(attack == obj_short_sword)
+{
+    audio_play_sound(snd_attack,10, false);
+}
+if(attack == obj_mace)
+{
+    audio_play_sound(snd_attack,10, false);
+}
+if(attack == obj_long_sword)
+{
+    audio_play_sound(snd_attack,10, false);
+}
+if(attack == obj_rifle)
+{
+    audio_play_sound(snd_rifle, 10, false);
+}
+</string>
           </argument>
         </arguments>
       </action>
