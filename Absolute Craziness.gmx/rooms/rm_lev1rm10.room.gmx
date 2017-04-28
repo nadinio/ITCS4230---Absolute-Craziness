@@ -162,6 +162,9 @@
     <instance objName="obj_skeleton" x="640" y="128" name="inst_A0733028" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_demonic_wizzard" x="704" y="544" name="inst_DA4F7F05" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_demonic_wizzard" x="192" y="512" name="inst_E00AF914" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_bat" x="800" y="160" name="inst_1100CA18" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_bat" x="64" y="576" name="inst_499A3E1E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_bat" x="832" y="608" name="inst_D0F9D683" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="bg_terrain1" x="32" y="416" w="32" h="32" xo="64" yo="32" id="10011702" name="inst_C72A0BC2" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>

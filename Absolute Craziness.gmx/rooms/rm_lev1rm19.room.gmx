@@ -158,6 +158,11 @@
     <instance objName="obj_grave" x="128" y="672" name="inst_F5F04D2E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_demonic_wizzard" x="288" y="256" name="inst_BD37024C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_demonic_wizzard" x="640" y="416" name="inst_0D3C29E6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_skeleton" x="96" y="608" name="inst_1A80BD15" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_skeleton" x="160" y="608" name="inst_1D94E8E8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_skeleton" x="160" y="704" name="inst_61474253" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_minotaur" x="192" y="480" name="inst_4B6D19A0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_minotaur" x="352" y="416" name="inst_AD99DA7C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="bg_terrain1" x="0" y="416" w="32" h="32" xo="64" yo="32" id="10019031" name="inst_8665B4D5" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
