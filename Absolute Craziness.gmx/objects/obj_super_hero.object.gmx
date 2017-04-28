@@ -379,7 +379,7 @@ if(attack == obj_long_sword)
 }
 if(attack == obj_rifle)
 {
-
+    audio_play_sound(snd_rifle, 10, false);
 }
 </string>
           </argument>
