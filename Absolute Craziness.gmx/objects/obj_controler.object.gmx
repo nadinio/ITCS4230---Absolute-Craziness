@@ -101,13 +101,13 @@ cheat = get_string("Enter a cheat code", "");
 if(cheat=="lazer")
 {
     obj_super_hero.attack = obj_upgrade_lazer_rifle;
-    //global.legit_run = false;
+    global.legit_run = false;
 }
 
 if(cheat=="superhealth")
 {
     obj_super_hero.health = 9999999999;
-    //global.legit_run = false;
+    global.legit_run = false;
 }
 
 if(cheat=="longsword")
@@ -134,13 +134,13 @@ if(cheat=="gotoboss")
     obj_super_hero.x = 384;
     obj_super_hero.y = 352;
     room_goto(rm_lev1rm14);
-    //global.legit_run = false;
+    global.legit_run = false;
 }
 
 if(cheat=="killboss")
 {
     obj_livingDeadWizard.cur_hp = 0;
-    //global.legit_run = false;
+    global.legit_run = false;
 }
 
 
