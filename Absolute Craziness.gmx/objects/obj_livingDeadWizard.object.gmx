@@ -120,6 +120,9 @@ motion_set(90, enemy_speed);
 {
     // Enter the score into the top score table
     show_message("Your final score was: " + string(score));
+    player_name = get_string("Please enter your name for the highscore table!", "");
+    highscore_add(player_name, score);
+    
 }
 else
 {

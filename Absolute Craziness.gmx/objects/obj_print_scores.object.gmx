@@ -37,18 +37,19 @@ draw_set_valign(fa_middle);
 image_angle += 1;//used to make the text spin
 draw_text_transformed(room_width / 2, 30, "High Scores", 5, 5, 0)
 
-text = 
-"You have been traped in a dungeon and the only way#
-    out is to kill the boss monster";
+draw_highscore(100,100,room_width-100,room_height-100);
+
 /*
 "The main objective of this game is to destroy the enemy teams capital they look#
     like -----&gt;";
 */
+/*
 draw_set_color(c_black);
 draw_set_halign(fa_left);
 draw_set_valign(fa_middle);
 image_angle += 1;//used to make the text spin
 draw_text_transformed(40, 100, text, 2, 2, 0)
+*/
 
 </string>
           </argument>
