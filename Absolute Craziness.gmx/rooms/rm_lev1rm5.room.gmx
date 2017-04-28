@@ -183,7 +183,6 @@
     <tile bgName="bg_terrain1" x="512" y="192" w="32" h="32" xo="64" yo="32" id="10002982" name="inst_C1B56505" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="bg_terrain1" x="512" y="160" w="32" h="32" xo="64" yo="32" id="10002983" name="inst_8D0DCF20" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="bg_terrain1" x="512" y="64" w="32" h="32" xo="64" yo="32" id="10002988" name="inst_459DC04D" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="bg_terrain1" x="512" y="32" w="32" h="32" xo="64" yo="32" id="10002989" name="inst_7BD51013" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="bg_terrain1" x="480" y="352" w="32" h="32" xo="64" yo="32" id="10003000" name="inst_3248C942" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="bg_terrain1" x="480" y="384" w="32" h="32" xo="64" yo="32" id="10003001" name="inst_77AA77B1" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="bg_terrain1" x="512" y="96" w="32" h="32" xo="64" yo="32" id="10003002" name="inst_44071BFD" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
@@ -242,9 +241,6 @@
     <tile bgName="bg_terrain1" x="352" y="544" w="32" h="32" xo="96" yo="128" id="10003167" name="inst_889A476A" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="bg_terrain1" x="384" y="544" w="32" h="32" xo="96" yo="128" id="10003174" name="inst_2067CBCE" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="bg_terrain1" x="384" y="512" w="32" h="32" xo="96" yo="128" id="10003175" name="inst_EC3AAA24" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="bg_terrain1" x="416" y="640" w="32" h="32" xo="96" yo="128" id="10003182" name="inst_99ABCEEB" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="bg_terrain1" x="416" y="672" w="32" h="32" xo="96" yo="128" id="10003183" name="inst_3752407D" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="bg_terrain1" x="480" y="32" w="32" h="32" xo="384" yo="96" id="10003203" name="inst_D2A21C2C" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="bg_terrain1" x="480" y="64" w="32" h="32" xo="384" yo="96" id="10003204" name="inst_97CF6C1B" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="bg_terrain1" x="480" y="96" w="32" h="32" xo="384" yo="96" id="10003205" name="inst_A468C245" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="bg_terrain1" x="480" y="128" w="32" h="32" xo="384" yo="96" id="10003206" name="inst_36203EA7" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
@@ -255,12 +251,6 @@
     <tile bgName="bg_terrain1" x="512" y="256" w="32" h="32" xo="128" yo="32" id="10003241" name="inst_89665749" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="bg_terrain1" x="512" y="288" w="32" h="32" xo="128" yo="32" id="10003242" name="inst_22C47742" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="bg_terrain1" x="512" y="320" w="32" h="32" xo="128" yo="32" id="10003243" name="inst_172214F1" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="bg_terrain1" x="480" y="448" w="32" h="32" xo="384" yo="96" id="10003246" name="inst_0D9079EA" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="bg_terrain1" x="480" y="480" w="32" h="32" xo="384" yo="96" id="10003247" name="inst_57A31D2A" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="bg_terrain1" x="480" y="512" w="32" h="32" xo="384" yo="96" id="10003248" name="inst_9ADAC295" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="bg_terrain1" x="480" y="544" w="32" h="32" xo="384" yo="96" id="10003249" name="inst_BE40FA31" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="bg_terrain1" x="480" y="672" w="32" h="32" xo="384" yo="96" id="10003253" name="inst_7E893E17" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="bg_terrain1" x="480" y="704" w="32" h="32" xo="384" yo="96" id="10003254" name="inst_51033911" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="bg_terrain1" x="32" y="480" w="32" h="32" xo="64" yo="128" id="10007455" name="inst_F1E526D0" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="bg_terrain1" x="32" y="512" w="32" h="32" xo="64" yo="128" id="10007456" name="inst_4071557D" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="bg_terrain1" x="32" y="704" w="32" h="32" xo="64" yo="128" id="10007462" name="inst_D070767E" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
@@ -309,7 +299,6 @@
     <tile bgName="bg_terrain1" x="320" y="608" w="32" h="32" xo="64" yo="128" id="10007550" name="inst_3C6AD14D" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="bg_terrain1" x="352" y="608" w="32" h="32" xo="64" yo="128" id="10007551" name="inst_40786936" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="bg_terrain1" x="384" y="576" w="32" h="32" xo="64" yo="128" id="10007553" name="inst_43D27AEF" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="bg_terrain1" x="416" y="608" w="32" h="32" xo="64" yo="128" id="10007555" name="inst_4CD3F8AB" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="bg_terrain1" x="416" y="512" w="32" h="32" xo="64" yo="128" id="10007558" name="inst_9756832C" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="bg_terrain1" x="416" y="544" w="32" h="32" xo="64" yo="128" id="10007559" name="inst_B65BCCF6" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="bg_terrain1" x="416" y="576" w="32" h="32" xo="64" yo="128" id="10007560" name="inst_6C73D833" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
@@ -338,9 +327,7 @@
     <tile bgName="bg_terrain1" x="224" y="672" w="32" h="32" xo="64" yo="128" id="10007599" name="inst_21152FA8" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="bg_terrain1" x="224" y="640" w="32" h="32" xo="64" yo="128" id="10007600" name="inst_46D92F63" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="bg_terrain1" x="224" y="608" w="32" h="32" xo="64" yo="128" id="10007601" name="inst_E0B7A094" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="bg_terrain1" x="480" y="416" w="32" h="32" xo="352" yo="96" id="10007602" name="inst_C82DAE1E" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="bg_terrain1" x="480" y="288" w="32" h="32" xo="352" yo="128" id="10007603" name="inst_B678B7A2" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="bg_terrain2" x="448" y="416" w="32" h="32" xo="416" yo="48" id="10007604" name="inst_3B06350E" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="bg_terrain2" x="416" y="416" w="32" h="32" xo="416" yo="48" id="10007605" name="inst_672F7384" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="bg_terrain2" x="384" y="416" w="32" h="32" xo="416" yo="48" id="10007606" name="inst_1802B80A" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="bg_terrain2" x="352" y="416" w="32" h="32" xo="416" yo="48" id="10007607" name="inst_A5CE7133" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
@@ -368,7 +355,6 @@
     <tile bgName="bg_terrain2" x="384" y="288" w="32" h="32" xo="416" yo="16" id="10007637" name="inst_897FE1B7" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="bg_terrain2" x="416" y="288" w="32" h="32" xo="416" yo="16" id="10007638" name="inst_439BBC72" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="bg_terrain2" x="448" y="288" w="32" h="32" xo="416" yo="16" id="10007639" name="inst_ECF3A939" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="bg_terrain1" x="576" y="32" w="32" h="32" xo="416" yo="96" id="10007641" name="inst_E391F358" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="bg_terrain1" x="576" y="64" w="32" h="32" xo="416" yo="96" id="10007642" name="inst_3A87F9D4" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="bg_terrain1" x="576" y="96" w="32" h="32" xo="416" yo="96" id="10007643" name="inst_424BC2E8" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="bg_terrain1" x="576" y="128" w="32" h="32" xo="416" yo="96" id="10007644" name="inst_7399C3ED" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
@@ -390,7 +376,6 @@
     <tile bgName="bg_terrain1" x="576" y="640" w="32" h="32" xo="416" yo="96" id="10007660" name="inst_6CDEBB4B" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="bg_terrain1" x="576" y="672" w="32" h="32" xo="416" yo="96" id="10007661" name="inst_86984A17" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="bg_terrain1" x="576" y="704" w="32" h="32" xo="416" yo="96" id="10007662" name="inst_0D7C63A7" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="bg_terrain1" x="544" y="32" w="32" h="32" xo="64" yo="32" id="10007664" name="inst_0354D867" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="bg_terrain1" x="544" y="64" w="32" h="32" xo="64" yo="32" id="10007665" name="inst_DE22B3F0" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="bg_terrain1" x="544" y="96" w="32" h="32" xo="64" yo="32" id="10007666" name="inst_678944BE" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="bg_terrain1" x="544" y="128" w="32" h="32" xo="64" yo="32" id="10007667" name="inst_D94B7233" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
@@ -812,15 +797,6 @@
     <tile bgName="bg_terrain1" x="608" y="640" w="32" h="32" xo="128" yo="192" id="10008279" name="inst_A006FB60" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="bg_terrain1" x="608" y="672" w="32" h="32" xo="128" yo="192" id="10008280" name="inst_72BA73FC" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="bg_terrain1" x="608" y="704" w="32" h="32" xo="128" yo="192" id="10008281" name="inst_E7C40B48" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="bg_terrain1" x="448" y="704" w="32" h="32" xo="128" yo="192" id="10008282" name="inst_A586CDF4" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="bg_terrain1" x="448" y="672" w="32" h="32" xo="128" yo="192" id="10008283" name="inst_F5F5F7D5" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="bg_terrain1" x="448" y="640" w="32" h="32" xo="128" yo="192" id="10008284" name="inst_0BAFC0DA" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="bg_terrain1" x="448" y="608" w="32" h="32" xo="128" yo="192" id="10008285" name="inst_8370D36C" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="bg_terrain1" x="448" y="576" w="32" h="32" xo="128" yo="192" id="10008288" name="inst_8C21380D" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="bg_terrain1" x="448" y="544" w="32" h="32" xo="128" yo="192" id="10008289" name="inst_82F5B449" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="bg_terrain1" x="448" y="512" w="32" h="32" xo="128" yo="192" id="10008290" name="inst_7D95DA80" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="bg_terrain1" x="448" y="480" w="32" h="32" xo="128" yo="192" id="10008291" name="inst_3C1F5171" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="bg_terrain1" x="448" y="448" w="32" h="32" xo="128" yo="192" id="10008292" name="inst_1BB05CD9" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="bg_terrain1" x="416" y="448" w="32" h="32" xo="128" yo="192" id="10008293" name="inst_52000A37" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="bg_terrain1" x="384" y="448" w="32" h="32" xo="128" yo="192" id="10008294" name="inst_ACAE46BD" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="bg_terrain1" x="352" y="448" w="32" h="32" xo="128" yo="192" id="10008295" name="inst_F291405E" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
@@ -834,9 +810,36 @@
     <tile bgName="bg_terrain1" x="96" y="448" w="32" h="32" xo="128" yo="192" id="10008303" name="inst_7B3A3EFD" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="bg_terrain1" x="64" y="448" w="32" h="32" xo="128" yo="192" id="10008304" name="inst_A6C27782" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="bg_terrain1" x="32" y="448" w="32" h="32" xo="128" yo="192" id="10008305" name="inst_A03CE3A1" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="bg_terrain1" x="480" y="576" w="32" h="32" xo="384" yo="96" id="10008306" name="inst_10EA85BD" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="bg_terrain1" x="480" y="608" w="32" h="32" xo="384" yo="96" id="10008307" name="inst_BAE4EB47" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="bg_terrain1" x="480" y="640" w="32" h="32" xo="384" yo="96" id="10008308" name="inst_D49B7E3C" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="bg_terrain1" x="0" y="320" w="32" h="32" xo="64" yo="32" id="10024863" name="inst_D16E6270" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="bg_terrain1" x="0" y="352" w="32" h="32" xo="64" yo="32" id="10024864" name="inst_4571C33E" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="bg_terrain1" x="0" y="384" w="32" h="32" xo="64" yo="32" id="10024865" name="inst_889F4C23" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="bg_terrain1" x="480" y="704" w="32" h="32" xo="64" yo="32" id="10024881" name="inst_1098F226" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="bg_terrain1" x="480" y="672" w="32" h="32" xo="64" yo="32" id="10024882" name="inst_E1AEAC88" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="bg_terrain1" x="480" y="640" w="32" h="32" xo="64" yo="32" id="10024883" name="inst_E027F3AD" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="bg_terrain1" x="480" y="608" w="32" h="32" xo="64" yo="32" id="10024884" name="inst_1BEC5EB8" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="bg_terrain1" x="480" y="576" w="32" h="32" xo="64" yo="32" id="10024885" name="inst_462CD29A" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="bg_terrain1" x="480" y="544" w="32" h="32" xo="64" yo="32" id="10024886" name="inst_4423BF58" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="bg_terrain1" x="480" y="512" w="32" h="32" xo="64" yo="32" id="10024887" name="inst_C3574742" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="bg_terrain1" x="480" y="480" w="32" h="32" xo="64" yo="32" id="10024888" name="inst_70A08264" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="bg_terrain1" x="480" y="448" w="32" h="32" xo="64" yo="32" id="10024889" name="inst_618B2865" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="bg_terrain1" x="480" y="416" w="32" h="32" xo="64" yo="32" id="10024890" name="inst_836C402A" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="bg_terrain1" x="448" y="448" w="32" h="32" xo="384" yo="96" id="10024891" name="inst_F1A750DE" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="bg_terrain1" x="448" y="480" w="32" h="32" xo="384" yo="96" id="10024892" name="inst_0E3CEBFD" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="bg_terrain1" x="448" y="512" w="32" h="32" xo="384" yo="96" id="10024893" name="inst_25DE9361" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="bg_terrain1" x="448" y="544" w="32" h="32" xo="384" yo="96" id="10024894" name="inst_3C6F576B" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="bg_terrain1" x="448" y="576" w="32" h="32" xo="384" yo="96" id="10024902" name="inst_CB798A83" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="bg_terrain1" x="448" y="608" w="32" h="32" xo="384" yo="96" id="10024903" name="inst_1EC9F674" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="bg_terrain1" x="448" y="640" w="32" h="32" xo="384" yo="96" id="10024904" name="inst_C69E5278" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="bg_terrain1" x="448" y="672" w="32" h="32" xo="384" yo="96" id="10024905" name="inst_57E0DECC" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="bg_terrain1" x="448" y="704" w="32" h="32" xo="384" yo="96" id="10024906" name="inst_DD76A604" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="bg_terrain1" x="416" y="608" w="32" h="32" xo="64" yo="128" id="10024907" name="inst_DF1D482D" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="bg_terrain1" x="416" y="640" w="32" h="32" xo="64" yo="128" id="10024908" name="inst_3C8F09E3" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="bg_terrain1" x="416" y="672" w="32" h="32" xo="64" yo="128" id="10024909" name="inst_F9314B27" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="bg_terrain1" x="448" y="416" w="32" h="32" xo="352" yo="96" id="10024910" name="inst_0046D7BF" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="bg_terrain2" x="512" y="32" w="32" h="32" xo="416" yo="16" id="10024912" name="inst_4830A770" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="bg_terrain2" x="544" y="32" w="32" h="32" xo="416" yo="16" id="10024913" name="inst_360A90E6" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="bg_terrain2" x="480" y="32" w="32" h="32" xo="320" yo="16" id="10024916" name="inst_F1C4EAFA" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="bg_terrain2" x="576" y="32" w="32" h="32" xo="352" yo="16" id="10024917" name="inst_965338E7" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
   </tiles>
   <PhysicsWorld>0</PhysicsWorld>
   <PhysicsWorldTop>0</PhysicsWorldTop>
