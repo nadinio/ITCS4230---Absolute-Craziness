@@ -1,0 +1,13 @@
+Background Music is done by Matthew Pablo and is under the CC BY 3.0 license
+  https://opengameart.org/content/heroic-demise-updated-version
+
+The 32x32 orthogonal tile set isis done by DENZI and is under the CC BY-SA 3.0 License
+  https://opengameart.org/content/denzis-32x32-orthogonal-tilesets
+
+The Roguelike Tiles are done by David E. Gervais and is under the CC BY 3.0 license
+  https://opengameart.org/content/roguelike-tiles-large-collection
+
+The rifle firing sound is done by AVW and is uncer a CC BY 3.0 licence
+  https://opengameart.org/content/collection-gun-sounds
+
+All other borrowed works are under free use licenses.
