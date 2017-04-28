@@ -21,6 +21,7 @@
       <sound>sound\snd_ant_damage</sound>
     </sounds>
     <sound>sound\bg_music</sound>
+    <sound>sound\snd_button</sound>
   </sounds>
   <sprites name="sprites">
     <sprites name="Heros">
@@ -66,6 +67,15 @@
       <sprite>sprites\spr_wall</sprite>
       <sprite>sprites\spr_warp</sprite>
       <sprite>sprites\spr_lv1wall</sprite>
+    </sprites>
+    <sprites name="Menu">
+      <sprite>sprites\spr_how_to_play</sprite>
+      <sprite>sprites\spr_logo</sprite>
+      <sprite>sprites\spr_start_button</sprite>
+      <sprite>sprites\spr_team</sprite>
+      <sprite>sprites\spr_team_name</sprite>
+      <sprite>sprites\spr_high_score</sprite>
+      <sprite>sprites\spr_back_button</sprite>
     </sprites>
   </sprites>
   <backgrounds name="background">
@@ -146,9 +156,22 @@
     <objects name="Controllers">
       <object>objects\obj_controler</object>
       <object>objects\obj_resolution_control</object>
+      <object>objects\obj_high_score</object>
+      <object>objects\obj_how_to_play</object>
+      <object>objects\obj_print_game_rules</object>
+      <object>objects\obj_print_scores</object>
+      <object>objects\obj_splashControler</object>
+      <object>objects\obj_start_button</object>
+      <object>objects\obj_team_name</object>
+      <object>objects\obj_back_button</object>
+      <object>objects\obj_game_logo</object>
     </objects>
   </objects>
   <rooms name="rooms">
+    <room>rooms\rm_splash</room>
+    <room>rooms\rm_score</room>
+    <room>rooms\rm_how_to_Play</room>
+    <room>rooms\rm_Main</room>
     <rooms name="Level 1">
       <room>rooms\rm_lev1rm0</room>
       <room>rooms\rm_lev1rm1</room>
