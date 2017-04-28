@@ -262,7 +262,7 @@ if (!place_free(x+hspeed,y+vspeed))
         <arguments>
           <argument>
             <kind>10</kind>
-            <object>obj_short_sword</object>
+            <object>-100</object>
           </argument>
           <argument>
             <kind>0</kind>
