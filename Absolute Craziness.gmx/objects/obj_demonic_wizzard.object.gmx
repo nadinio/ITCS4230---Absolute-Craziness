@@ -35,8 +35,8 @@ hp_coeff = max_hp/100;
 
 enemy_speed=2;
 
-aggroRange = 300;
-alerted = false;
+aggroRange = 30000000;
+alerted = true;
 
 //attack obj
 attack = obj_ant_bullet;
@@ -179,7 +179,7 @@ if (point_distance(x,y,par_Player.x, par_Player.y)&lt;= aggroRange &amp;&amp; al
     can_shoot = false;
 }
 else 
-{alerted = false;}
+{alerted = true;}
 
 </string>
           </argument>
